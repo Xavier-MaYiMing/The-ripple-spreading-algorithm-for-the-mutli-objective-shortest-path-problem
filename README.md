@@ -2,7 +2,7 @@
 
 ##### Reference: Hu X B, Gu S H, Zhang C, et al. Finding all Pareto optimal paths by simulating ripple relay race in multi-objective networks[J]. Swarm and Evolutionary Computation, 2021, 64: 100908.
 
-The multi-objective aims to find a set of paths with minimized costs. 
+The multi-objective shortest path problem aims to find a set of paths with minimized costs. 
 
 | Variables     | Meaning                                                      |
 | ------------- | ------------------------------------------------------------ |
