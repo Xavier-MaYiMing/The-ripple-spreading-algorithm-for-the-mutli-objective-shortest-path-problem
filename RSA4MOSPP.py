@@ -3,8 +3,7 @@
 # @Time    : 2022/7/25 12:41
 # @Author  : Xavier Ma
 # @Email   : xavier_mayiming@163.com
-# @File    : RSA4one_to_all_MOSPP.py
-# @Statement :
+# @File    : RSA4MOSPP.py
 # @Statement : The ripple-spreading algorithm for the multi-objective shortest path problem
 # @Reference : Hu X B, Gu S H, Zhang C, et al. Finding all Pareto optimal paths by simulating ripple relay race in multi-objective networks[J]. Swarm and Evolutionary Computation, 2021, 64: 100908.
 import copy
