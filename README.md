@@ -23,7 +23,7 @@ The multi-objective shortest path problem aims to find a set of paths with minim
 | objective_set | List, the objective value of the traveling path of the i-th ripple is objective_set[i] |
 | Omega         | Dictionary, Omega[n] = i denotes that ripple i is generated at node n |
 
-#### Example
+#### Example (RSA4MOSPP.py)
 
 ![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-mutli-objective-shortest-path-problem/blob/main/MOSPP.png)
 
@@ -53,3 +53,4 @@ if __name__ == '__main__':
 ]
 ```
 
+##### RSA.py was written in class.
